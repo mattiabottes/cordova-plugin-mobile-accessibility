@@ -1,6 +1,6 @@
-PhoneGap Mobile Accessibility plugin
+Cordova Mobile Accessibility plugin
 
-com.phonegap.plugin.mobile-accessibility
+com.cordova.plugin.mobileaccessibility
 
 Copyright 2014 Adobe Systems Incorporated
 
@@ -10,13 +10,12 @@ This software bundles the following third party software that may have
 licenses differing from that of the software itself. You can find the
 libraries and their respective licenses below.
 
-Third Party Software Notices:
-=============================
+# Third Party Software Notices:
 
- - AndroidVox_v1.js - ./www/android/AndroidVox_v1.js
-    from https://ssl.gstatic.com/accessibility/javascript/android/AndroidVox_v1.js
- - chromeandroidvox.js - ./www/android/chromeandroidvox.js
-    from https://ssl.gstatic.com/accessibility/javascript/android/chromeandroidvox.js
+- AndroidVox_v1.js - ./www/android/AndroidVox_v1.js
+  from https://ssl.gstatic.com/accessibility/javascript/android/AndroidVox_v1.js
+- chromeandroidvox.js - ./www/android/chromeandroidvox.js
+  from https://ssl.gstatic.com/accessibility/javascript/android/chromeandroidvox.js
 
 source url: https://code.google.com/p/google-axs-chrome/source/browse/#svn%2Ftrunk%2Fchromevox
 

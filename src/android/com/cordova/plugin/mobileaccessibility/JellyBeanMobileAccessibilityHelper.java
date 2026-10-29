@@ -19,9 +19,9 @@
  *
 */
 
-package com.phonegap.plugin.mobileaccessibility;
+package com.cordova.plugin.mobileaccessibility;
 
-import com.phonegap.plugin.mobileaccessibility.MobileAccessibility;
+import com.cordova.plugin.mobileaccessibility.MobileAccessibility;
 
 import android.annotation.TargetApi;
 import android.os.Build;
